@@ -8,7 +8,7 @@ This repository contains a custom streaming project that demonstrates the use of
 
 ## Original Data
 
-The original data used in this project can be found [here]([link-to-original-data](https://data.world/carmichael/mavenmagicchallenge/workspace/file?filename=Characters.xlsx)).
+The original data used in this project can be found [here](https://data.world/carmichael/mavenmagicchallenge/workspace/file?filename=Characters.xlsx).
 
 ## Project Overview
 
@@ -24,3 +24,6 @@ In this project, I created two main components:
 
 - The consumer continuously listens to the RabbitMQ queue for incoming messages.
 - As messages arrive, the consumer writes them to a new file in real-time.
+
+### Screenshot
+![Screenshot](Screenshot.png)

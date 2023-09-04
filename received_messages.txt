@@ -1,0 +1,166 @@
+1: Harry Potter
+2: Ron Weasley
+3: Hermione Granger
+4: Albus Dumbledore
+5: Rubeus Hagrid
+6: Severus Snape
+7: Minerva McGonagall
+8: Horace Slughorn
+9: Voldemort
+10: Neville Longbottom
+11: Remus Lupin
+12: Draco Malfoy
+13: Alastor Moody
+14: Fred Weasley
+15: Dolores Umbridge
+16: Arthur Weasley
+17: Cornelius Fudge
+18: Sirius Black
+19: George Weasley
+20: Ginny Weasley
+21: Vernon Dursley
+22: Bellatrix Lestrange
+23: Lucius Malfoy
+24: Tom Riddle
+25: Luna Lovegood
+26: Molly Weasley
+27: Dobby
+28: Gilderoy Lockhart
+29: Seamus Finnigan
+30: Griphook
+31: Dudley Dursley
+32: Petunia Dursley
+33: Barty Crouch Sr.
+34: Xenophilius Lovegood
+35: Argus Filch
+36: Cedric Diggory
+37: Percy Weasley
+38: Sybill Trelawney
+39: Moaning Myrtle
+40: Aberforth Dumbledore
+41: Quirinus Quirrell
+42: James Potter
+43: Garrick Ollivander
+44: Peter Pettigrew
+45: Lily Potter
+46: Oliver Wood
+47: Nearly Headless Nick
+48: Kreacher
+49: Igor Karkaroff
+50: Rolanda Hooch
+51: Rufus Scrimgeour
+52: Lee Jordan
+53: Scabior
+54: Helena Ravenclaw
+55: Cho Chang
+56: Kingsley Shacklebolt
+57: Rita Skeeter
+58: Stanley Shunpike
+59: Filius Flitwick
+60: Marge Dursley
+61: Nymphadora Tonks
+62: Elphias Doge
+63: Narcissa Malfoy
+64: Bogrod
+65: Lavender Brown
+66: Rosmerta
+67: Amos Diggory
+68: Aragog
+69: Olympe Maxime
+70: Corban Yaxley
+71: Cormac McLaggen
+72: Susan Bones
+73: Bill Weasley
+74: Angelina Johnson
+75: Dean Thomas
+76: Mundungus Fletcher
+77: Muriel
+78: Parvati Patil
+79: Pomona Sprout
+80: Vincent Crabbe
+81: Fleur Delacour
+82: Marcus Flint
+83: Mary Cattermole
+84: Albus Potter
+85: Poppy Pomfrey
+86: Serpent of Slitherin
+87: Firenze
+88: Arabella Figg
+89: Barty Crouch Jr.
+90: Mrs. Cole
+91: Pansy Parkinson
+92: Tom
+93: Grawp
+94: Katie Bell
+95: Mrs. Granger
+96: Pius Thicknesse
+97: Bane
+98: Gellert Grindelwald
+99: Gregory Goyle
+100: Leanne
+101: Padma Patil
+102: Fenrir Greyback
+103: Magorian
+104: Bathilda Bagshot
+105: Blaise Zabini
+106: Colin Creevey
+107: Everard
+108: Griselda Marchbanks
+109: Justin Finch-Fletchley
+110: Mr. Granger
+111: Nigel Wolpert
+112: Perkins
+113: Phineas
+114: Viktor Krum
+115: Walburga Black
+116: Zacharias Smith
+117: Bloody Baron
+118: Ernest Macmillan
+119: Michael Corner
+120: Alecto Carrow
+121: Charity Burbage
+122: Dilys Derwent
+123: Eldred Worple
+124: Marcus Belby
+125: Mykew Gregorovitch
+126: Other
+127: Students
+128: Sorting Hat
+129: Ghosts
+130: Merpeople
+131: Gang thug
+132: Goblin
+133: Station guard
+134: Girl
+135: Guard
+136: All
+137: Maid
+138: Boy
+139: Man
+140: Woman
+141: The Fat Lady
+142: Snatcher
+143: Wizard
+144: Diary
+145: Trolley witch
+146: Waitress
+147: Ghost
+148: Howler
+149: Old man
+150: Shrunken head
+151: Skinny kid
+152: Snake
+153: Witch
+154: Class
+155: Whomping Willow
+156: Centaur
+157: Death Eater
+158: Man in a painting
+159: Photographer
+160: Pixie
+161: Student
+162: Waiter
+163: Boy 2
+164: Crowd
+165: Gryffindors
+166: Professors

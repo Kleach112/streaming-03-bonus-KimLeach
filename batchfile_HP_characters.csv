@@ -1,0 +1,167 @@
+Character_ID,Character_Name,Species,Gender,House,Patronus,Wand_Type,Wand_Core,Image_URL
+1,Harry Potter,Human,Male,Gryffindor,Stag,Holly,Phoenix Feather,https://www.looper.com/img/gallery/harry-potter-is-getting-something-huge-in-2022/l-intro-1625353292.jpg
+2,Ron Weasley,Human,Male,Gryffindor,Jack Russell Terrier,,,https://hips.hearstapps.com/seventeen/assets/15/44/1446218645-ron-weasley.jpg
+3,Hermione Granger,Human,Female,Gryffindor,Otter,Vine,Dragon Heartstring,https://cdn.vox-cdn.com/thumbor/aiU71J02TAxm0F0h5HP-ELtk0To=/0x0:1024x768/920x613/filters:focal(408x210:570x372):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/51000509/harry-potter-top-10-hermione-granger-moments-hermione-granger-358045.0.jpg
+4,Albus Dumbledore,Human,Male,Gryffindor,Phoenix,Elder,Thestral Tail Hair,https://upload.wikimedia.org/wikipedia/en/f/fe/Dumbledore_and_Elder_Wand.JPG
+5,Rubeus Hagrid,Half-Human/Half-Giant,Male,Gryffindor,,Oak,,https://www.nickiswift.com/img/gallery/the-real-reason-you-dont-hear-from-hagrid-anymore/intro-1542830788.jpg
+6,Severus Snape,Human,Male,Slytherin,Doe,,,https://static.wikia.nocookie.net/harrypotter/images/a/a3/Severus_Snape.jpg/revision/latest?cb=20150307193047
+7,Minerva McGonagall,Human,Female,Gryffindor,Cat,Fir,Dragon Heartstring,https://upload.wikimedia.org/wikipedia/en/e/ea/McGonagall_%28screenshot%29.jpg
+8,Horace Slughorn,Human,Male,Slytherin,,Cedar,Dragon Heartstring,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+9,Voldemort,Human,Male,Slytherin,,Yew,Phoenix Feather,https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg
+10,Neville Longbottom,Human,Male,Gryffindor,,Cherry,Unicorn Hair,https://static.wikia.nocookie.net/stories-by-jayson/images/6/67/Neville-longbottom.jpg/revision/latest?cb=20171003143700
+11,Remus Lupin,Werewolf,Male,Gryffindor,Wolf,Cypress,Unicorn Hair,https://openpsychometrics.org/tests/characters/test-resources/pics/HP/20.jpg
+12,Draco Malfoy,Human,Male,Slytherin,,Hawthorn,Unicorn Hair,"https://www.tyla.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.tyla.com%2Fs3%2Fcontent%2F0c357d015f7ddc5b009c2d3ee46ee082.png"
+13,Alastor Moody,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+14,Fred Weasley,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+15,Dolores Umbridge,Human,Female,Slytherin,Cat,Birch,Dragon Heartstring,https://static.wikia.nocookie.net/harrypotter/images/6/68/Dolores_Umbridge_Deathly_Hallows_promotional_image.jpg/revision/latest/top-crop/width/360/height/360?cb=20101127041001
+16,Arthur Weasley,Human,Male,Gryffindor,Weasel,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+17,Cornelius Fudge,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+18,Sirius Black,Human,Male,Gryffindor,,,,https://static.wikia.nocookie.net/harrypotter/images/b/bc/OOTP_promo_front_closeup_Sirius_Black.jpg/revision/latest?cb=20150918055024
+19,George Weasley,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+20,Ginny Weasley,Human,Female,Gryffindor,Horse,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+21,Vernon Dursley,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+22,Bellatrix Lestrange,Human,Female,Slytherin,,Walnut,Dragon Heartstring,https://media.beliefnet.com/~/media/photos-with-attribution/entertainment/celebrities/bellatrix_lestrange_helena_bonham_carter/bellatrix-lestrange-10_credit-warner-bros.jpg
+23,Lucius Malfoy,Human,Male,Slytherin,,Elm,Dragon Heartstring,https://cdn.mos.cms.futurecdn.net/WEaDFXZSpavaZHhhG8ERk8.jpg
+24,Tom Riddle,Human,Male,Slytherin,,Yew,Phoenix Feather,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+25,Luna Lovegood,Human,Female,Ravenclaw,Hare,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+26,Molly Weasley,Human,Female,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+27,Dobby,House Elf,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+28,Gilderoy Lockhart,Human,Male,Ravenclaw,,Cherry,Dragon Heartstring,https://qph.fs.quoracdn.net/main-qimg-0cc192661473903fe066190b17f6686b-lq
+29,Seamus Finnigan,Human,Male,Gryffindor,Fox,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+30,Griphook,Goblin,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+31,Dudley Dursley,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+32,Petunia Dursley,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+33,Barty Crouch Sr.,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+34,Xenophilius Lovegood,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+35,Argus Filch,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+36,Cedric Diggory,Human,Male,Hufflepuff,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+37,Percy Weasley,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+38,Sybill Trelawney,Human,Female,Ravenclaw,,Hazel,Unicorn Hair,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+39,Moaning Myrtle,Ghost,Female,Ravenclaw,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+40,Aberforth Dumbledore,Human,Male,,Goat,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+41,Quirinus Quirrell,Human,Male,Ravenclaw,,Alder,Unicorn Hair,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+42,James Potter,Human,Male,Gryffindor,Stag,Mahogany,,https://static.wikia.nocookie.net/harrypotter/images/1/10/James_Potter_I_Deathly_Hallows.jpg/revision/latest?cb=20180601015416
+43,Garrick Ollivander,Human,Male,Ravenclaw,,Hornbeam,Dragon Heartstring,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+44,Peter Pettigrew,Human,Male,Gryffindor,,Chestnut,Dragon Heartstring,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+45,Lily Potter,Human,Female,Gryffindor,Doe,Willow,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+46,Oliver Wood,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+47,Nearly Headless Nick,Ghost,Human,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+48,Kreacher,House Elf,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+49,Igor Karkaroff,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+50,Rolanda Hooch,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+51,Rufus Scrimgeour,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+52,Lee Jordan,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+53,Scabior,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+54,Helena Ravenclaw,Ghost,Female,Ravenclaw,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+55,Cho Chang,Human,Female,Ravenclaw,Swan,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+56,Kingsley Shacklebolt,Human,Male,,Lynx,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+57,Rita Skeeter,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+58,Stanley Shunpike,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+59,Filius Flitwick,Human (Part-Goblin),Male,Ravenclaw,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+60,Marge Dursley,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+61,Nymphadora Tonks,Human,Female,Hufflepuff,Jack rabbit,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+62,Elphias Doge,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+63,Narcissa Malfoy,Human,Female,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+64,Bogrod,Goblin,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+65,Lavender Brown,Human,Female,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+66,Rosmerta,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+67,Amos Diggory,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+68,Aragog,Acromantula,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+69,Olympe Maxime,Half-Human/Half-Giant,Female,Beauxbatons Academy of Magic,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+70,Corban Yaxley,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+71,Cormac McLaggen,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+72,Susan Bones,Human,Female,Hufflepuff,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+73,Bill Weasley,Human (Werewolf traits),Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+74,Angelina Johnson,Human,Female,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+75,Dean Thomas,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+76,Mundungus Fletcher,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+77,Muriel,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+78,Parvati Patil,Human,Female,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+79,Pomona Sprout,Human,Female,Hufflepuff,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+80,Vincent Crabbe,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+81,Fleur Delacour,Human (Quarter-Veela),Female,Beauxbatons Academy of Magic,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+82,Marcus Flint,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+83,Mary Cattermole,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+84,Albus Potter,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+85,Poppy Pomfrey,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+86,Serpent of Slitherin,Basilisk,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+87,Firenze,Centaur,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+88,Arabella Figg,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+89,Barty Crouch Jr.,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+90,Mrs. Cole,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+91,Pansy Parkinson,Human,Female,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+92,Tom,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+93,Grawp,Giant,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+94,Katie Bell,Human,Female,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+95,Mrs. Granger,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+96,Pius Thicknesse,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+97,Bane,Centaur,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+98,Gellert Grindelwald,Human,Male,Durmstrang Institute,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+99,Gregory Goyle,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+100,Leanne,Human,Female,Hufflepuff,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+101,Padma Patil,Human,Female,Ravenclaw,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+102,Fenrir Greyback,Werewolf,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+103,Magorian,Centaur,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+104,Bathilda Bagshot,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+105,Blaise Zabini,Human,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+106,Colin Creevey,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+107,Everard,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+108,Griselda Marchbanks,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+109,Justin Finch-Fletchley,Human,Male,Hufflepuff,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+110,Mr. Granger,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+111,Nigel Wolpert,Human,Male,Gryffindor,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+112,Perkins,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+113,Phineas,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+114,Viktor Krum,Human,Male,Durmstrang Institute,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+115,Walburga Black,Human,Female,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+116,Zacharias Smith,Human,Male,Hufflepuff,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+117,Bloody Baron,Ghost,Male,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+118,Ernest Macmillan,Human,Male,Hufflepuff,Boar,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+119,Michael Corner,Human,Male,Ravenclaw,Squirrel,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+120,Alecto Carrow,Human,Female,Slytherin,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+121,Charity Burbage,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+122,Dilys Derwent,Human,Female,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+123,Eldred Worple,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+124,Marcus Belby,Human,Male,Ravenclaw,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+125,Mykew Gregorovitch,Human,Male,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+126,Other,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+127,Students,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+128,Sorting Hat,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+129,Ghosts,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+130,Merpeople,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+131,Gang thug,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+132,Goblin,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+133,Station guard,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+134,Girl,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+135,Guard,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+136,All,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+137,Maid,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+138,Boy,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+139,Man,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+140,Woman,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+141,The Fat Lady,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+142,Snatcher,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+143,Wizard,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+144,Diary,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+145,Trolley witch,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+146,Waitress,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+147,Ghost,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+148,Howler,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+149,Old man,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+150,Shrunken head,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+151,Skinny kid,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+152,Snake,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+153,Witch,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+154,Class,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+155,Whomping Willow,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+156,Centaur,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+157,Death Eater,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+158,Man in a painting,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+159,Photographer,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+160,Pixie,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+161,Student,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+162,Waiter,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+163,Boy 2,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+164,Crowd,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+165,Gryffindors,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
+166,Professors,,,,,,,https://st.depositphotos.com/2101611/4338/v/600/depositphotos_43381243-stock-illustration-male-avatar-profile-picture.jpg
