@@ -1,0 +1,5 @@
+# Virtual Environment
+.venv/
+
+# Screenshot files
+screenshot.png
